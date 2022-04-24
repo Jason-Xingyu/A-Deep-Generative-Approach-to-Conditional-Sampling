@@ -1,6 +1,11 @@
 # What is this repository?
 This repository provides the implementation code for the paper, A Deep Generative Approach to Conditional Sampling, published on JASA in 2022.
 
+You can find our paper on [JASA.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.2016424?journalCode=uasa20)
+
+
+
+
 # What is included in this repository?
 The main function to define and train the conditional sampler is in *fitgcde.R*. If you just want to adopt the formulation of our methods and apply to your own problem, this is the file you should look at.
 
